@@ -5,3 +5,5 @@ list of commits
 
 class: COMP3104
 day: Wednesday 6:00pm - 9:00pm
+
+lab_excercise: every sunday after class
