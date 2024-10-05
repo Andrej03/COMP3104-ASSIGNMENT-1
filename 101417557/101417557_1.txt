@@ -5,4 +5,4 @@ list of commits
 
 name: Andrej
 lastname: Bachvarovski
-student number: 101417557
+student id number: 101417557

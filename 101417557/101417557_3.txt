@@ -4,5 +4,5 @@ list of commits
 ----------------------------------------------------------------
 
 assignment:
-    - assignment 1 due : oct. 13, 2024
+    - assignment 1 due : Oct. 13, 2024
     - assignment 2 due : N/A
