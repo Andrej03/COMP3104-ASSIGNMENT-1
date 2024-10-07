@@ -1,1 +1,0 @@
-DevOps further improves on Agile by emphasizing the successful delivery of software that is entirely usable during every iteration. It helps in limiting the frustration of both the internal teams working on the product and the end-user.
