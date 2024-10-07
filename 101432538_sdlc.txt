@@ -1,3 +1,4 @@
 SDLC stands for Software Development Life Cycle. 
 ==============================
-
+SDLC is the cost-effective and time-efficient process that development teams
+use to design and build high-quality software
