@@ -52,3 +52,14 @@ Security in DevOps:
 Best practices for securing CI/CD pipelines.
 Implementing DevSecOps by integrating security testing and analysis into development workflows.
 Using tools like SonarQube, OWASP ZAP, or Snyk for code analysis and vulnerability scanning.
+
+Learning Outcomes
+By the end of the COMP3104 DevOps course, students typically achieve the following:
+
+A comprehensive understanding of DevOps principles, practices, and tools.
+Ability to set up and manage CI/CD pipelines for automated testing and deployment.
+Proficiency in using version control systems and managing repositories.
+Knowledge of containerization with Docker and Kubernetes for application deployment.
+Familiarity with IaC tools to automate infrastructure provisioning.
+Skills in monitoring, logging, and troubleshooting software applications.
+Awareness of security considerations in DevOps workflows.
