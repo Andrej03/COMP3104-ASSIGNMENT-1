@@ -1,0 +1,5 @@
+The COMP3104 course, often referred to as a DevOps course, is typically part 
+of the curriculum in IT or software development programs at universities or colleges. 
+It focuses on teaching the principles and practices of DevOps, a software development 
+approach that aims to bridge the gap between development and operations teams through 
+automation, collaboration, and continuous delivery.
