@@ -11,3 +11,9 @@ coding is performed, based on the design. After development, the testing phase e
 requirements and is free of defects. After testing, the software is deployed in the live environment, followed by the 
 maintenance phase, where ongoing support and improvements are handled. This iterative cycle helps teams deliver better 
 software faster while reducing risks and addressing user feedback continuously.
+
+Several SDLC models exist, such as the Waterfall model, where phases are completed sequentially, and the 
+Agile model, which allows for iterative progress through shorter development cycles known as sprints. Other 
+models include V-Model, Spiral, and DevOps approaches, each suited for different types of projects depending on 
+factors like complexity, size, and flexibility requirements. Regardless of the specific model, SDLC ensures that 
+every aspect of software creation is accounted for, leading to high-quality and user-focused outcomes.
