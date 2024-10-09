@@ -12,3 +12,9 @@ testing, and deployment to production environments. Additionally, they explore c
 like Ansible or Puppet, which enable the automation of infrastructure provisioning and management. The course 
 also covers monitoring tools like Nagios or Prometheus to ensure system reliability and performance, making it 
 easier to detect issues before they impact users.
+
+Ultimately, COMP3104 prepares students for real-world DevOps roles by providing hands-on experience with 
+industry-standard tools and methodologies. By the end of the course, students can automate software development 
+workflows, manage cloud infrastructures, and ensure continuous improvement of the delivery pipeline. The course 
+bridges the gap between software engineering and IT operations, producing graduates who can deliver software more 
+quickly, reliably, and efficiently in modern, fast-paced environments.
