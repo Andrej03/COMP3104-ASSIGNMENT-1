@@ -4,3 +4,10 @@ and functions efficiently in the current and planned IT infrastructure. SDLC pro
 projects, breaking them down into distinct phases that include planning, designing, building, testing, and deploying 
 software applications. Each phase has specific deliverables and milestones, ensuring that the development process is 
 both systematic and controlled.
+
+The phases of SDLC typically include requirements gathering and analysis, where business needs are understood and documented. 
+Next is the design phase, where the architecture of the system is laid out. This is followed by the development phase, where 
+coding is performed, based on the design. After development, the testing phase ensures that the software meets the defined 
+requirements and is free of defects. After testing, the software is deployed in the live environment, followed by the 
+maintenance phase, where ongoing support and improvements are handled. This iterative cycle helps teams deliver better 
+software faster while reducing risks and addressing user feedback continuously.
