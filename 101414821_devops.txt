@@ -1,0 +1,7 @@
+The COMP3104 DevOps course focuses on blending software development (Dev) and IT operations (Ops) to streamline 
+and automate the processes of software delivery and infrastructure management. This course introduces students to 
+the principles and practices of DevOps, highlighting the importance of collaboration, automation, and continuous 
+integration/continuous deployment (CI/CD) pipelines. It covers topics like version control with Git, automated 
+testing, containerization using Docker, and cloud deployment. By learning these tools and techniques, students 
+gain the skills needed to shorten development cycles, improve software quality, and enhance collaboration between 
+development and operations teams.
