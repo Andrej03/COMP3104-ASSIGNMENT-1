@@ -5,3 +5,10 @@ integration/continuous deployment (CI/CD) pipelines. It covers topics like versi
 testing, containerization using Docker, and cloud deployment. By learning these tools and techniques, students 
 gain the skills needed to shorten development cycles, improve software quality, and enhance collaboration between 
 development and operations teams.
+
+A major emphasis of the course is on automation and monitoring. Students are introduced to automation tools like 
+Jenkins, which facilitate the creation of CI/CD pipelines, allowing for seamless code integration, automated 
+testing, and deployment to production environments. Additionally, they explore configuration management tools 
+like Ansible or Puppet, which enable the automation of infrastructure provisioning and management. The course 
+also covers monitoring tools like Nagios or Prometheus to ensure system reliability and performance, making it 
+easier to detect issues before they impact users.
