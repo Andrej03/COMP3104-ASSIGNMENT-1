@@ -1,1 +1,9 @@
 The COMP 3104 course introduces students to the principles and practices of DevOps, a methodology that bridges the gap between software development (Dev) and IT operations (Ops).
+
+Learning Objectives:
+
+1: DevOps Fundamentals
+Understand the DevOps principles, and practices.
+
+2: Version Control Systems
+Gain proficiency in using Git for version control.
