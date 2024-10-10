@@ -1,1 +1,3 @@
 Learning DevOps is crucial in the software development life cycle as it promotes collaboration between development and operations teams, improves deployment speed, enhances code quality, and enables continuous delivery. DevOps ensures that development processes are more efficient, reliable, and scalable, which is key for modern software development.
+
+DevOps integrates modern security practices through DevSecOps, embedding security into every stage of the development pipeline. This ensures that security is not treated as an afterthought, but as a fundamental part of the workflow.
