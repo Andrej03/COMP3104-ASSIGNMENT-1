@@ -1,1 +1,12 @@
 DevOps plays a critical role in modern software development, focusing on the collaboration between development and operations teams to improve the speed, quality, and efficiency of software delivery.
+
+---------------------------------------------------------------------------------------------------------
+
+1: Improves Collaboration and Communication skills
+DevOps bridges the gap between development (Dev) and operations (Ops), therefore inadvertently improves the collaboration and Communication skills of an indivdual.
+
+2: Faster Time to Market
+DevOps practices, such as Continuous Integration (CI) and Continuous Deployment (CD), automate many stages of the software development process, reducing the time needed to release new apps and features.
+
+3: Efficient Use of Resources
+By automating repetitive tasks such as testing, deployment, DevOps frees up the development and operations teams to focus on more on technical tasks instead
