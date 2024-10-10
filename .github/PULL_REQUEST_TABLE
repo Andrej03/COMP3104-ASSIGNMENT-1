@@ -1,16 +1,18 @@
 ## Description
-Pulls and Merges
+Pulls and Merges done by the team and reasons.
 
 ## Type of Change
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Documentation update
+- [ ] Error handeling with content mismanagemnt
+- [ ] Addition of new features in individual branches.
+- [ ] Access to information
+- [ ] File management
+- [ ] README.md file changes
 
 ## Checklist
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
+- [ ] The code follows the guidelines of the Assignemnts needs
+- [ ] Collaborators have been added and given all permisions
+- [ ] Content is legible
+- [ ] Multiple content changes have resulted in multiple pushed per day
+- [ ] Code does not have warnings and no fixes are needed
+- [ ] GitHub CI protocols in GitHub Actions are all in working order
+- [ ] Test are passed many times over in multiple branches
