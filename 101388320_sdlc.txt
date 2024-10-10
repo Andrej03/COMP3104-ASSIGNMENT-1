@@ -10,3 +10,7 @@ DevOps practices, such as Continuous Integration (CI) and Continuous Deployment 
 
 3: Efficient Use of Resources
 By automating repetitive tasks such as testing, deployment, DevOps frees up the development and operations teams to focus on more on technical tasks instead
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Learning DevOps equips developers and operations teams with the tools and processes needed to build, deploy, and maintain software more efficiently, making it an important software for us to learn now to help us in out future
