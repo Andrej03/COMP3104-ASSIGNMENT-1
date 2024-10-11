@@ -1,0 +1,18 @@
+## Description
+Pulls and Merges done by the team and reasons.
+
+## Type of Change
+- [ ] Error handeling with content mismanagemnt
+- [ ] Addition of new features in individual branches.
+- [ ] Access to information
+- [ ] File management
+- [ ] README.md file changes
+
+## Checklist
+- [ ] The code follows the guidelines of the Assignemnts needs
+- [ ] Collaborators have been added and given all permisions
+- [ ] Content is legible
+- [ ] Multiple content changes have resulted in multiple pushed per day
+- [ ] Code does not have warnings and no fixes are needed
+- [ ] GitHub CI protocols in GitHub Actions are all in working order
+- [ ] Test are passed many times over in multiple branches
