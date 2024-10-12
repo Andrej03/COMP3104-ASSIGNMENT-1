@@ -11,10 +11,11 @@ COLLABORATORS
 --------------------------------------------------------------------------------
 GIT CLONE
 
-    * git clone https://github.com/Andrej03/COMP3104-ASSIGNMENT-1
+    git clone https://github.com/Andrej03/COMP3104-ASSIGNMENT-1
 
 --------------------------------------------------------------------------------
 CI/CD PIPELINES
-    * https://github.com/Andrej03/COMP3104-ASSIGNMENT-1/.github/workflows/ci.yml
+
+    https://github.com/Andrej03/COMP3104-ASSIGNMENT-1/.github/workflows/ci.yml
 
 --------------------------------------------------------------------------------
