@@ -1,8 +1,11 @@
 # COMP3104 - GROUP 18 - README FILE #  
 
 -------------------------------------------------------------------------------
-REPO OWNER - 101417557 - ANDREJ BACHVAROVSKI - 101417557@georgebrown.ca
-COLLABORATORS 
+REPO OWNER 
+
+    * 101417557 - ANDREJ BACHVAROVSKI - 101417557@georgebrown.ca
+COLLABORATORS
+
     * 101388320 - AMMAR - 101388320@georgebrown.ca
     * 101414821 - SOHAM - 101414821@georgebrown.ca
     * 101446744 - AHMED - 101446744@georgebrown.ca
