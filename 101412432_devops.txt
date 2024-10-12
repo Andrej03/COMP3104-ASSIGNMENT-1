@@ -1,0 +1,65 @@
+The COMP3104 course, often referred to as a DevOps course, is typically part 
+of the curriculum in IT or software development programs at universities or colleges. 
+It focuses on teaching the principles and practices of DevOps, a software development 
+approach that aims to bridge the gap between development and operations teams through 
+automation, collaboration, and continuous delivery.
+
+Typical Course Content
+Introduction to DevOps:
+
+Understanding the evolution of software development methodologies (e.g., Waterfall, Agile, and DevOps).
+The role of DevOps in modern software development and its benefits.
+Key DevOps practices, such as Continuous Integration (CI), Continuous Delivery (CD), and Infrastructure as Code (IaC).
+Version Control Systems:
+
+Detailed study of version control tools like Git and GitHub/GitLab.
+Best practices for branching, merging, and managing repositories.
+Using Git commands and setting up repositories for team collaboration.
+Continuous Integration & Continuous Deployment (CI/CD):
+
+Overview of CI/CD pipelines and their importance.
+Setting up CI/CD pipelines using tools like Jenkins, GitLab CI, GitHub Actions, CircleCI, or Azure DevOps.
+Automating testing, building, and deploying software applications.
+Understanding and applying deployment strategies such as blue-green deployment and canary releases.
+Infrastructure as Code (IaC):
+
+Introduction to IaC and its role in automating infrastructure provisioning.
+Hands-on practice with tools like Terraform, AWS CloudFormation, or Ansible.
+Managing cloud resources (e.g., AWS, Azure, Google Cloud) using code.
+Containerization and Orchestration:
+
+Working with Docker for containerization of applications.
+Understanding container orchestration and management with Kubernetes.
+Creating Dockerfiles, building Docker images, and deploying containers.
+Managing Kubernetes clusters and deploying applications to them.
+Configuration Management:
+
+Introduction to configuration management tools like Ansible, Puppet, or Chef.
+Automating server configurations and environment setups.
+Writing and applying playbooks/recipes for consistent configuration management.
+Monitoring and Logging:
+
+Overview of monitoring tools and practices.
+Using tools like Prometheus, Grafana, or ELK stack (Elasticsearch, Logstash, Kibana) for monitoring and log management.
+Setting up alerts and dashboards to monitor system performance and application health.
+Cloud Platforms and Services:
+
+Introduction to cloud service providers like AWS, Microsoft Azure, and Google Cloud Platform.
+Deploying applications and managing resources on cloud platforms.
+Understanding cloud-native architectures and serverless computing.
+Security in DevOps:
+
+Best practices for securing CI/CD pipelines.
+Implementing DevSecOps by integrating security testing and analysis into development workflows.
+Using tools like SonarQube, OWASP ZAP, or Snyk for code analysis and vulnerability scanning.
+
+Learning Outcomes
+By the end of the COMP3104 DevOps course, students typically achieve the following:
+
+A comprehensive understanding of DevOps principles, practices, and tools.
+Ability to set up and manage CI/CD pipelines for automated testing and deployment.
+Proficiency in using version control systems and managing repositories.
+Knowledge of containerization with Docker and Kubernetes for application deployment.
+Familiarity with IaC tools to automate infrastructure provisioning.
+Skills in monitoring, logging, and troubleshooting software applications.
+Awareness of security considerations in DevOps workflows.
