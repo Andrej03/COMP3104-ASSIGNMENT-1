@@ -2,6 +2,7 @@
 Pulls and Merges done by the team and reasons. 
 
 ## Type of Change
+- [ ] Pull request and Mergest from all branches to the main
 - [ ] Error handeling with content mismanagemnt
 - [ ] Addition of new features in individual branches.
 - [ ] Access to information
@@ -9,7 +10,7 @@ Pulls and Merges done by the team and reasons.
 - [ ] README.md file changes
 
 ## Checklist
-- [ ] The code follows the guidelines of the Assignemnts needs
+- [ ] The code follows the guidelines of the Assignemnts' needs
 - [ ] Collaborators have been added and given all permisions
 - [ ] Content is legible
 - [ ] Multiple content changes have resulted in multiple pushed per day
