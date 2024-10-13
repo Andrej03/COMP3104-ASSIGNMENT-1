@@ -1,0 +1,14 @@
+A DevOps course is important because it enables faster development cycles, enhances collaboration between development and operations teams, and improves software quality through automation and continuous integration (CI) and deployment (CD) practices. It promotes operational efficiency by automating repetitive tasks, allowing teams to focus on innovation while reducing errors. DevOps also supports scalability, flexibility, and continuous improvement in processes, which is crucial in cloud environments. With growing demand for DevOps professionals, learning these skills opens up valuable career opportunities. Additionally, it integrates security into workflows (DevSecOps), promotes cost efficiency, and equips learners with essential cloud-native skills, making it indispensable for modern software development and operations.
+
+COMP 3104 is a DevOps course at George Brown College that introduces students to the principles and practices of DevOps, focusing on automation, continuous integration, and continuous delivery. The course covers topics like version control systems, containerization, orchestration, and cloud deployment.
+
+Course Delivery Mode
+The course uses various instructional methods, such as lectures, demonstrations, hands-on
+exercises, and take-home assignments. The delivery mode depends on whether the course is
+online or in person. Online lectures will be the primary mode, but there may be in-person
+lectures for in-person participants. Labs will be conducted virtually for the online program, while
+in-person program students must attend on-campus labs. For more information about the delivery
+mode, please refer to D2L. Any updates will be communicated through D2L in advance
+
+
+curent prof Pritesh Patel
